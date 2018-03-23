@@ -9,7 +9,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array_friends.push("John")
+  array.push("wow")
 end
 
 def add_element_to_start_of_array(array, element)

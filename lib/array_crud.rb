@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array_friends = ["Derek", "Chris", "Samee", "Austin", "John"]
+  array_friends = ["Derek", "Chris", "Samee", "Austin"]
   
 end
 
